@@ -45,5 +45,5 @@ End-to-end tests for a demo web application using **Selenium + Page Object Model
 ---
 
 ## 📫 Let's Connect
-- [LinkedIn](https://www.linkedin.com/in/seulinkedin)  
-- 📧 thiago@email.com  
+- [LinkedIn](https://www.linkedin.com/in/thiago-coghi)  
+- 📧 thiagocoghi@hotmail.com
