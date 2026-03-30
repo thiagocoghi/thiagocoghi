@@ -40,8 +40,8 @@ End-to-end tests for a demo web application using **Selenium + Page Object Model
 ---
 
 ## 📊 GitHub Stats
-![Thiago's GitHub stats](https://github-readme-stats.vercel.app/api?username=thiagocoghi&show_icons=true&theme=tokyonight)
 
+![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=thiagocoghi&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
 ---
 
 ## 📫 Let's Connect
